@@ -1,0 +1,2 @@
+C:\Users\ReeNee1\source\repos\Exercise45\Exercise45\obj\Debug\Exercise45.csprojResolveAssemblyReference.cache
+C:\Users\ReeNee1\source\repos\Exercise45\Exercise45\obj\Debug\Exercise45.csproj.CoreCompileInputs.cache
